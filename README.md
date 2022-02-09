@@ -1,0 +1,1 @@
+# Bangkok-AQI.1
